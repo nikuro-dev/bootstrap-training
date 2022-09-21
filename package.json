@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nikuro-dev/bootstrap-training/issues"
   },
-  "homepage": "https://github.com/nikuro-dev/bootstrap-training#readme"
+  "homepage": "https://github.com/nikuro-dev/bootstrap-training#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
 }
